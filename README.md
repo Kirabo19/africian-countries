@@ -35,10 +35,9 @@ video link https://www.loom.com/share/779f1cb958ce49319f615e006bcbad29
 Show your support
 
 #Give a ⭐️ if you like this project!
-=======
-# Contributions, issues, and feature requests are welcome!
 
-# Feel free to check the issues page.
+Contributions, issues, and feature requests are welcome!
+Feel free to check the issues page.
 Show your support
 
 # Give a ⭐️ if you like this project!
