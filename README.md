@@ -1,34 +1,33 @@
 # African Countries App
 
 
-    The African Nations App allows you to:
+The African Nations App allows you to:
 
-    Display a list of African countries
-    Search any African country of your choice
-    Details of each Country.
+Display a list of African countries
+Search any African country of your choice
+Details of each Country.
 
 # Built With
 
 
-    React and Redux
-    CSS & HTML
+React and Redux
+CSS & HTML
 
 
 # Live Demo 
-
-
+ 
 Feel free to check the Live link.
 Live Video
+video link https://www.loom.com/share/779f1cb958ce49319f615e006bcbad29
 
-video link.
 +Author
 
 # 👤 Patrick Ndimukulaga
 
 
-    GitHub: @githubhandle
-    Twitter: @twitterhandle
-    LinkedIn: LinkedIn
+GitHub: @githubhandle
+Twitter: @twitterhandle
+LinkedIn: LinkedIn
 
 🤝 Contributing
 
@@ -36,16 +35,15 @@ video link.
 Show your support
 
 #Give a ⭐️ if you like this project!
-=======
-# Contributions, issues, and feature requests are welcome!
 
-# Feel free to check the issues page.
+Contributions, issues, and feature requests are welcome!
+Feel free to check the issues page.
 Show your support
 
 # Give a ⭐️ if you like this project!
 Acknowledgments
 
-    I acknowledge the User Interface Designer by Sakwa Design Studio
+I acknowledge the User Interface Designer by Sakwa Design Studio
 
 📝 License
 
