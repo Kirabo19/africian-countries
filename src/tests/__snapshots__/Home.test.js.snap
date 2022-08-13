@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page Component snapshot test 1`] = `
+<section
+  className="home home-df"
+>
+  <div
+    className="container"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <div
+        className="SearchBar-container"
+        onBlur={[Function]}
+        onChange={[Function]}
+      >
+        <input
+          placeholder="Search for a country"
+          type="search"
+        />
+      </div>
+    </form>
+    <button
+      className="scroll-up"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "display": "none",
+        }
+      }
+      type="button"
+    >
+      ↑
+    </button>
+    <div
+      className="cards-container"
+    />
+  </div>
+</section>
+`;

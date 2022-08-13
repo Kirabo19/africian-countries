@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar Component snapshot test 1`] = `
+<nav
+  className="navbar df-nav"
+>
+  <div
+    className="container"
+  >
+    <h1>
+      African Countries
+    </h1>
+    <div
+      role="button"
+      tabIndex={0}
+    >
+      Change Theme
+    </div>
+  </div>
+</nav>
+`;
