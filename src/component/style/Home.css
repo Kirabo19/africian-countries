@@ -138,4 +138,5 @@
 .card li {
   font-size: 17px;
   margin-bottom: 7px;
+  word-wrap: break-word;
 }

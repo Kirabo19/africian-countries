@@ -2,7 +2,7 @@
   "name": "africian-countries",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://Kirabo19.github.io",
+  "homepage":"https://kirabo19.github.io/africian-countries/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.4",
     "@types/react-router-dom": "^5.3.3",
