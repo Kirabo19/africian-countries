@@ -22,7 +22,7 @@ A website that help you get the information's (population, name, region, capital
 
 # Video
 
-Watch this video learn more about the project features.
+Watch this [video](https://www.loom.com/share/2dbe816243f145779101204a3e946a94) learn more about the project features.
 
 # Get Started
 
