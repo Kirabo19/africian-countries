@@ -1,52 +1,62 @@
-# African Countries App
-
-
-The African Nations App allows you to:
-
-Display a list of African countries
-Search any African country of your choice
-Details of each Country.
+# African Countries 
+A website that help you get the information's (population, name, region, capital and more) about any country in the africa, you can search for a country or filter countries by region and there are 2 cool themes that you can switch between.
 
 # Built With
 
+- HTML & CSS
+- JavaScript
+- React js
+- Redux & Redux toolkit
+- React Testing library & Jest test.
+- Git & GitHub
+- axios
 
-React and Redux
-CSS & HTML
+# Design
 
+- [Design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) idea by [Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio)
+- Frontend Mentor [REST Countries API with color theme switcher](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
 
 # Live Demo 
- 
-Feel free to check the Live link.
-Live Video
+
+- Feel free to check the Live link.
+- Live Video
 video link https://www.loom.com/share/779f1cb958ce49319f615e006bcbad29
 
-+Author
+# Video
 
-# 👤 Patrick Ndimukulaga
+Watch this video learn more about the project features.
+
+# Get Started
+
+To get a local copy up and running follow these simple steps.
+
+   - Clone the project $ git clone https://github.com/Kirabo19/africian-countries.git
+   - Open your project in VS code of any text editor that you love to use.
+   - Install node js npm install
+   - you can bulid the project npm run build and run it using the browser or live server or you can run it using npm run start.
 
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
+# Author
 
-🤝 Contributing
+👤 Patrick Ndimukulaga
+
+   - GitHub: @kirabo19
+   - Twitter: @ndimuku
+   - LinkedIn: https://www.linkedin.com/in/patrick-ndimukulaga-a6910a50/
+
+# 🤝 Contributing
 
 #Feel free to check the issues page.
 Show your support
 
-#Give a ⭐️ if you like this project!
+# Show your Support
 
-Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page.
-Show your support
+Give a ⭐️ if you like this project!
 
-# Give a ⭐️ if you like this project!
-Acknowledgments
+# Acknowledgments
 
-I acknowledge the User Interface Designer by Sakwa Design Studio
+   - Microverse Team.
+   - Micronaots.
+   - Microverse community.
 
-📝 License
-
-
-This project is MITlicensed.
 
