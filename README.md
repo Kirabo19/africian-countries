@@ -18,9 +18,7 @@ A website that help you get the information's (population, name, region, capital
 
 # Live Demo 
 
-- Feel free to check the Live link.
-- Live Video
-video link https://www.loom.com/share/779f1cb958ce49319f615e006bcbad29
+- Feel free to check the Live link. https://kirabo19.github.io/africian-countries/
 
 # Video
 
