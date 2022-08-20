@@ -13,8 +13,8 @@ A website that help you get the information's (population, name, region, capital
 
 # Design
 
-- Design idea by Nelson Sakwa on Behance.
-- Frontend Mentor REST Countries API with color theme switcher
+- [Design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) idea by [Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio)
+- Frontend Mentor [REST Countries API with color theme switcher](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
 
 # Live Demo 
 
