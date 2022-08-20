@@ -18,13 +18,11 @@ A website that help you get the information's (population, name, region, capital
 
 # Live Demo 
 
-- Feel free to check the Live link.
-- Live Video
-video link https://www.loom.com/share/779f1cb958ce49319f615e006bcbad29
+- Feel free to check the Live link. https://kirabo19.github.io/africian-countries/
 
 # Video
 
-Watch this video learn more about the project features.
+Watch this [video](https://www.loom.com/share/2dbe816243f145779101204a3e946a94) learn more about the project features.
 
 # Get Started
 
